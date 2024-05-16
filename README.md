@@ -1,5 +1,5 @@
 # pancakeswap-api
-PancakeSwap GraphQL token price API simple
+PancakeSwap GraphQL token price API simple on BSC
 
 Page source
 
